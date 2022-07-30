@@ -1,0 +1,3 @@
+﻿  occQt.cpp
+d:\text5\宁波莱布尼茨项目\occqt\occqt.cpp(94): warning C4101: “a”: 未引用的局部变量
+  occQt.vcxproj -> D:\text5\宁波莱布尼茨项目\occQt\debug\occQt.exe
